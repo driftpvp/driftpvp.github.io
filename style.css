@@ -2,11 +2,24 @@ body {
   background-color: #ecfde5;
   color: #db471c;
   font-family: Bookman Old Style, Bahnschrift, Biome, sans-serif;
-  margin: 13% 15%;
+  margin: 10% 5%;
+}
+
+.name {
+  Text-align: left;
+}
+
+img {
+  width:100px
+}
+
+img {
+  float:right;
 }
 
 .exp-header {
-  Test-align: center;
+  clear:right;
+  Text-align: center;
   text-transform: uppercase;
   border-top: 1px dashed #2cccff;
   border-bottom: 1px dashed #2cccff;
